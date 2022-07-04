@@ -1,7 +1,7 @@
 package com.bridgelabz;
 
 import java.util.Scanner;
-2/*
+/*
  *@author: Nikhil Deshmukh
  * Program for perfect Number
  * When the number is equal to the sum of its positive divisors
